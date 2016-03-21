@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jokes_array">
+        <item>joke1</item>
+        <item>joke2</item>
+        <item>joke3</item>
+        <item>joke4</item>
+    </string-array>
+</resources>

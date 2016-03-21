@@ -9,16 +9,16 @@ public class Joker {
 
     public Joker(){
         jokes = new ArrayList<String>();
-        jokes.add("This is the first stupid joke");
-        jokes.add("This is the second stupid joke");
-        jokes.add("This is the third stupid joke");
-        jokes.add("This is the fourth stupid joke");
-        jokes.add("This is the fifth stupid joke");
-        jokes.add("This is the sixth stupid joke");
-        jokes.add("This is the sevent stupid joke");
-        jokes.add("This is the eighth stupid joke");
-        jokes.add("This is the ninth stupid joke");
-        jokes.add("This is the tenth stupid joke");
+        jokes.add("This is the first joke");
+        jokes.add("This is the second joke");
+        jokes.add("This is the third joke");
+        jokes.add("This is the fourth joke");
+        jokes.add("This is the fifth joke");
+        jokes.add("This is the sixth joke");
+        jokes.add("This is the seventh joke");
+        jokes.add("This is the eighth joke");
+        jokes.add("This is the ninth joke");
+        jokes.add("This is the tenth joke");
     }
 
     public String getJoke() {
